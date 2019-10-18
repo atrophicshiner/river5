@@ -4,15 +4,7 @@
 		"panels": [
 			{
 				"title": "Main",
-				"river": "myOpmlFeeds.js"
-				},
-			{
-				"title": "NYT",
-				"river": "nyt.js"
-				},
-			{
-				"title": "Hacker News",
-				"river": "hn.js"
+				"river": "myTxtFeeds.js"
 				}
 			]
 		}
